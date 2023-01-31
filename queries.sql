@@ -1,1 +1,2 @@
--- write your queries here
+-- Ioana A Mititean
+-- 22.3: SQL Joins Exercise
